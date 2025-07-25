@@ -1,1 +1,1 @@
-# interview-preps
+# ts-core-blueprints
